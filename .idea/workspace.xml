@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5479f8d-82f7-49cd-a71b-9a2fa00d4fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona_dev_dojo_introducao/A01OlaMundoJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maratona_dev_dojo_introducao/A02TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OlaMundoJava.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c5479f8d-82f7-49cd-a71b-9a2fa00d4fcc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
