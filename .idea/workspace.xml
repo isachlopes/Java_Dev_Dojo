@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5479f8d-82f7-49cd-a71b-9a2fa00d4fcc" name="Changes" comment="" />
+    <list default="true" id="c5479f8d-82f7-49cd-a71b-9a2fa00d4fcc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Dev_Dojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Dev_Dojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maratona_dev_dojo_introducao/A02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maratona_dev_dojo_introducao/A02TiposPrimitivos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +38,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.A02TiposPrimitivos">
+  <component name="RunManager" selected="Application.A01OlaMundoJava">
     <configuration name="A01OlaMundoJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="maratona_dev_dojo_introducao.A01OlaMundoJava" />
       <module name="Java_Dev_Dojo" />
@@ -47,6 +55,18 @@
     <configuration name="A02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="maratona_dev_dojo_introducao.A02TiposPrimitivos" />
       <module name="Java_Dev_Dojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maratona_dev_dojo_introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maratona_dev_dojo_introducao.A02TiposPrimitivos" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maratona_dev_dojo_introducao.A02TiposPrimitivos" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="maratona_dev_dojo_introducao.*" />
